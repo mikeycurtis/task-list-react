@@ -1,6 +1,6 @@
 # Basic Task List Website
 
-This website uses React's useState and useEffect hooks to create a basic task list!
+This website uses React's useState hook to create a basic task list!
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
